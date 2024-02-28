@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @xiepengcz
-- 👀 I’m interested in sleep
-- 🌱 I’m currently learning Vue3, Typescript ... 
 - 📫 How to reach me xiepeng949@foxmail.com
 
 <!---
